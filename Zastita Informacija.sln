@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enigma", "Lab 1\Enigma.csproj", "{95B74C06-B34D-4DBF-8CE4-1FC1D6E20A2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryption Algorithm", "Encryption Algorithm\Encryption Algorithm.csproj", "{D643841D-176A-4E2E-9F9B-9906DA4288D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95B74C06-B34D-4DBF-8CE4-1FC1D6E20A2F}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{95B74C06-B34D-4DBF-8CE4-1FC1D6E20A2F}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{95B74C06-B34D-4DBF-8CE4-1FC1D6E20A2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B74C06-B34D-4DBF-8CE4-1FC1D6E20A2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95B74C06-B34D-4DBF-8CE4-1FC1D6E20A2F}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{95B74C06-B34D-4DBF-8CE4-1FC1D6E20A2F}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{95B74C06-B34D-4DBF-8CE4-1FC1D6E20A2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95B74C06-B34D-4DBF-8CE4-1FC1D6E20A2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95B74C06-B34D-4DBF-8CE4-1FC1D6E20A2F}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{95B74C06-B34D-4DBF-8CE4-1FC1D6E20A2F}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{D643841D-176A-4E2E-9F9B-9906DA4288D5}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{D643841D-176A-4E2E-9F9B-9906DA4288D5}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{D643841D-176A-4E2E-9F9B-9906DA4288D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D643841D-176A-4E2E-9F9B-9906DA4288D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D643841D-176A-4E2E-9F9B-9906DA4288D5}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{D643841D-176A-4E2E-9F9B-9906DA4288D5}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{D643841D-176A-4E2E-9F9B-9906DA4288D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D643841D-176A-4E2E-9F9B-9906DA4288D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D643841D-176A-4E2E-9F9B-9906DA4288D5}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{D643841D-176A-4E2E-9F9B-9906DA4288D5}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
